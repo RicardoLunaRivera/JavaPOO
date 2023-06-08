@@ -1,16 +1,16 @@
-package C05_Getters_Setters;
+package C08_Encapsulamiento;
 
 public class Alumno {
-    // se cambian a privados (private)
-    private int id;
-    private String nombre;
-    private String apellido;
+    //Parametros
+    int id;
+    String nombre;
+    String apellido;
 
     //Constructor Vacio
     public Alumno() {}
 
     //Constructor con parámetos
-     public  Alumno(int id, String nombre, String apellido) {
+    public Alumno(int id, String nombre, String apellido) {
         this.id = id;
         this.nombre = nombre;
         this.apellido = apellido;
