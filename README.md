@@ -7,3 +7,4 @@
 - [¿Qué son las clases?](src/notes/02Clases.md)
 - [¿Cómo crear un método?](src/notes/03Metodos.md)
 - [Métos Constructores y Objetos en Java](src/notes/04ConstructoresObjetos.md)
+- [La palabra reservada this y los métodos "getters" y "setters"](src/notes/05Getters_Setters_this.md)
