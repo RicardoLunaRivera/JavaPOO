@@ -1,4 +1,4 @@
-package C01_Clases;
+package C02_Clases;
 
 public class Alumno {
     int id;

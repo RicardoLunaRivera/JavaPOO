@@ -1,4 +1,4 @@
-package C01_Clases;
+package C02_Clases;
 /*
 En el siguiente ejemplo se declara la clase "Ejemplo", con los atributos xy a. Esta clase también contiene los métodos
 hacerAlgo(), suma() e imprimir().
