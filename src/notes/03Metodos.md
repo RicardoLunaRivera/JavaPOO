@@ -14,10 +14,10 @@ valores de salida (Valores de retorno).
 - Los métodos privados son las _operaciones internas_ que no se pueden invocar desde el exterior, pero si desde otro método dentro de la clase.
 
 Sintaxis para escribir un método público:
-> public < TipoDatoRetorno> < nombreMetodo> (< listaParametros>){
-> ...
+> public < TipoDatoRetorno> < nombreMetodo> (< listaParametros>) {
+> ...}
 
 Sintaxis para escribir un método privado úblico:
-> private < TipoDatoRetorno> < nombreMetodo> (< listaParametros>){
+> private < TipoDatoRetorno> < nombreMetodo> (< listaParametros>) {
 > ...
 >}
