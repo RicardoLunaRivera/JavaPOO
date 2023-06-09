@@ -12,3 +12,4 @@
 - [Polimorfismo](src/notes/07Polimorfismo.md)
 - [Encapsulamiento](src/notes/08Encapsulamiento.md)
 - [Clases Abstractas](src/notes/09ClasesAbstractas.md)
+- [Interfaces](src/notes/10Interfaces.md)
