@@ -13,3 +13,5 @@
 - [Encapsulamiento](src/notes/08Encapsulamiento.md)
 - [Clases Abstractas](src/notes/09ClasesAbstractas.md)
 - [Interfaces](src/notes/10Interfaces.md)
+- [Collections](src/notes/12Collections.md)
+  - [Listas](src/notes/13_1List.md)
