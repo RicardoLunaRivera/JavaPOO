@@ -4,7 +4,7 @@ si** que tienen un determinado **Orden**.
 - Su **tamaño es dinámico** (puede cambiar con el tiempo).
 - En java existen diferentes tipos de Listas:
   - [Arraylists](13_2ArrayLists.md)
-  - LinkedList
+  - [LinkedList](14LinkedLists.md)
   - Stack
 
 El orden de las listas suele ser:
