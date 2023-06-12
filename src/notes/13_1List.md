@@ -5,7 +5,7 @@ si** que tienen un determinado **Orden**.
 - En java existen diferentes tipos de Listas:
   - [Arraylists](13_2ArrayLists.md)
   - [LinkedList](14LinkedLists.md)
-  - Stack
+  - [Stack](16Stacks.md)
 
 El orden de las listas suele ser:
 - **FIFO** --> **F**irst **I**nt **F**irst **O**ut
