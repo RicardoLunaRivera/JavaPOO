@@ -15,3 +15,5 @@
 - [Interfaces](src/notes/10Interfaces.md)
 - [Collections](src/notes/12Collections.md)
   - [Listas](src/notes/13_1List.md)
+- [¿Qué es Maven y Gradle?](src/notes/maven_gradel.md)
+- [Excepciones](src/notes/17TryCatch.md)
