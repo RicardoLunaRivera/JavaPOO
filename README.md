@@ -19,3 +19,9 @@
 - [Excepciones](src/notes/17TryCatch.md)
 - [Relaciones entre Clases](src/notes/18RelacionClases.md)
 - [¿Cómo convertir tipos de datos en Java?](src/notes/20ConvertitTipoDatos.md)
+
+
+### EJERCICIOS
+- [Ejercicio Pokémon](src/notes/11EjercicioPokemon.md)
+- [Ejercicio Videojuegos](src/notes/19EjercicioVideojuego.md)
+- [Ejercicio Plantas](src/notes/21EjercicioPlantas.md)
