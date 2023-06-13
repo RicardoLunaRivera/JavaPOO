@@ -18,3 +18,4 @@
 - [¿Qué es Maven y Gradle?](src/notes/maven_gradel.md)
 - [Excepciones](src/notes/17TryCatch.md)
 - [Relaciones entre Clases](src/notes/18RelacionClases.md)
+- [¿Cómo convertir tipos de datos en Java?](src/notes/20ConvertitTipoDatos.md)
